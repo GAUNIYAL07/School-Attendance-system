@@ -16,15 +16,6 @@ A modern, user-friendly web application designed to help teachers efficiently ma
 - **Export Options** - Print or export attendance data
 - **Responsive Design** - Works seamlessly on desktop and tablet devices
 
-## Project Structure
-
-school attendance system/
-├── index.html       # Main HTML file with all UI sections
-├── script.js        # JavaScript functionality and logic
-├── style.css        # Styling and responsive design
-└── README.md        # Project documentation
-``
-
 ## How to Use
 
 1. **Open the Application**
