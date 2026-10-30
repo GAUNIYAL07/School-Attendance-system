@@ -51,12 +51,9 @@ The system comes with pre-loaded student data for:
 - **Class 9-A** - 4 students
 
 ## Technologies Used
-
-- **HTML5** - Structure and semantic markup
-- **CSS3** - Styling, flexbox, and responsive design
-- **JavaScript (Vanilla)** - Core functionality and interactivity
-- **Font Awesome** - Icons for UI elements
-- **Google Fonts** - Outfit font family for modern appearance
+- Frontend: React.js (Vite, functional components, hooks, React Router)
+- Backend: Node.js with Express.js (REST API)
+- Database: MySQL (using the mysql2 package, or Sequelize if you prefer an ORM)
 
 ## Browser Compatibility
 
