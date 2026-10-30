@@ -61,21 +61,6 @@ The system comes with pre-loaded student data for:
 - Firefox (Latest)
 - Safari (Latest)
 
-## Features to Note
-
-- Data is stored in browser's local memory during the session
-- Supports multiple subjects (Math, Science, English, History, etc.)
-- Real-time statistics update as attendance is marked
-- Toast notifications for user feedback
-- Clean and intuitive user interface
-
-## Installation
-
-No installation required! Simply:
-
-1. Download or clone the project files
-2. Open `index.html` in your web browser
-3. Start using the attendance system immediately
 
 ## Future Enhancements
 
